@@ -32,10 +32,9 @@ Install the required Python libraries:
 
  ## Steps
  
-1.Connect a webcam to your system.
+1. Connect a webcam to your system.
 
-2.Run the Python script:
- ```bash
-
-python hand_gesture_volume_control.py
+2. Run the Python script:
+```bash
+   python hand_gesture_volume_control.py 
 ```
